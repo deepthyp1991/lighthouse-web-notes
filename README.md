@@ -1,3 +1,4 @@
 # Deepthy's note
-# This is h1 header
-###### This is an h6 header
+## Summary
+
+This repository contains all of the notes taken by Deepthy (https://github.com/deepthyp1991/lighthouse-web-notes.git)for the Lighthouse Labs Web Development Bootcamp.
