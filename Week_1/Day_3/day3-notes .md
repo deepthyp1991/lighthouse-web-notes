@@ -16,6 +16,3 @@ The Values which are not objects are collectively referred to as primitive data 
 ### object literals
 
 const emptyObject = {} // empty object literal
-
-
-
